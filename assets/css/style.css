@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+a {
+  text-decoration: none;
+}
+#imgNav {
+    width: 50px;
+    height: 50px;
+margin-right: 20px;
+}
+
+#entrada {
+  justify-content: center;
+  width: 420px;
+  
+}
+#imagenHERO {
+  width: 22rem;
+  
+}
+img {
+  box-shadow: 5px 5px rgb(0, 0, 0);
+  border-radius: 20px;
+}
